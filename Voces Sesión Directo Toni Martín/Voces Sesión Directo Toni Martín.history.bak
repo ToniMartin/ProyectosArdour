@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1355149492" tv-usec="983761" name="insert file">
+    <StatefulDiffCommand obj-id="114" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="141"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1355149497" tv-usec="351887" name="region drag">
+    <StatefulDiffCommand obj-id="141" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="44574" to="0"/>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1355149504" tv-usec="823697" name="region drag">
+    <StatefulDiffCommand obj-id="141" type-name="ARDOUR::AudioRegion">
+      <Changes/>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+</UndoHistory>
